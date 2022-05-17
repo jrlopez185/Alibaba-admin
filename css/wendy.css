@@ -1,0 +1,217 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #E5E5E5;
+}
+
+.Contenedor2{
+    position: absolute;
+    width: 1000px;
+    height: 526px;
+    background-image: url(https://img.freepik.com/foto-gratis/imagen-fondo-vertical-computadora-portatil-pantalla-blanco-mesa-taller-pequena-empresa-concepto-emprendimiento-espacio-copia_236854-28770.jpg);
+    background-repeat: no-repeat;
+    /*background-color: red;*/
+    /*background-color: #E5E5E5;*/
+    background-color: white;
+    top: 40px;
+    left: 170px;
+    border-radius: 4%;
+}
+
+.titulo2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    width: 292px;
+    height: 35px;
+    text-align: center;
+    /*background-color: red;*/
+    position: absolute;
+    left: 560px;
+    top: 10px;
+}
+
+.id{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    width: 292px;
+    height: 35px;
+    text-align: center;
+    /*background-color: red;*/
+    position: absolute;
+    left: 450px;
+    top: 100px;
+}
+
+.numero{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    width: 292px;
+    height: 35px;
+    text-align: center;
+    /*background-color: red;*/
+    position: absolute;
+    left: 690px;
+    top: 100px;
+}
+
+.id2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    width: 292px;
+    height: 35px;
+    text-align: center;
+    /*background-color: red;*/
+    position: absolute;
+    left: 450px;
+    top: 160px;
+}
+
+.numero2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    width: 292px;
+    height: 35px;
+    text-align: center;
+    /*background-color: red;*/
+    position: absolute;
+    left: 690px;
+    top: 160px;
+}
+
+.id3{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    width: 292px;
+    height: 35px;
+    text-align: center;
+    /*background-color: red;*/
+    position: absolute;
+    left: 450px;
+    top: 220px;
+}
+
+.numero3{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    width: 292px;
+    height: 35px;
+    text-align: center;
+    /*background-color: red;*/
+    position: absolute;
+    left: 690px;
+    top: 220px;
+}
+
+.id4{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    width: 292px;
+    height: 35px;
+    text-align: center;
+    /*background-color: red;*/
+    position: absolute;
+    left: 450px;
+    top: 280px;
+}
+
+.numero4{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    width: 292px;
+    height: 35px;
+    text-align: center;
+    /*background-color: red;*/
+    position: absolute;
+    left: 690px;
+    top: 280px;
+}
+
+.id5{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    width: 292px;
+    height: 35px;
+    text-align: center;
+    /*background-color: red;*/
+    position: absolute;
+    left: 450px;
+    top: 350px;
+}
+
+.numero5{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    width: 292px;
+    height: 35px;
+    text-align: center;
+    /*background-color: red;*/
+    position: absolute;
+    left: 690px;
+    top: 350px;
+}
+
+.id6{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    width: 292px;
+    height: 35px;
+    text-align: center;
+    /*background-color: red;*/
+    position: absolute;
+    left: 450px;
+    top: 420px;
+}
+
+.numero6{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    width: 292px;
+    height: 35px;
+    text-align: center;
+    /*background-color: red;*/
+    position: absolute;
+    left: 690px;
+    top: 420px;
+}
